@@ -1,0 +1,31 @@
+[build]
+  # No build command needed for static HTML site
+  publish = "."
+
+[build.environment]
+  # Environment variables if needed
+
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+  [headers.values]
+    # Cache static assets
+    Cache-Control = "public, max-age=31536000"
+    
+[[headers]]
+  for = "*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Redirect rules for SPA-like behavior (optional)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false
+  
+# Custom error pages (optional)
+[[redirects]]
+  from = "/404"
+  to = "/index.html"
+  status = 404
