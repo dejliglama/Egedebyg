@@ -1,0 +1,20 @@
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Runtime files
+*.pid

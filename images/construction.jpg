@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect fill="#87CEEB" width="300" height="200"/>
+  <rect fill="#228B22" x="0" y="150" width="300" height="50"/>
+  <polygon fill="#8B4513" points="50,150 100,100 150,150"/>
+  <rect fill="#DEB887" x="75" y="150" width="50" height="50"/>
+  <rect fill="#654321" x="85" y="130" width="15" height="20"/>
+  <rect fill="#654321" x="105" y="130" width="15" height="20"/>
+  <polygon fill="#DC143C" points="160,150 210,80 260,150"/>
+  <rect fill="#F5DEB3" x="185" y="150" width="50" height="50"/>
+  <rect fill="#8B4513" x="195" y="120" width="15" height="30"/>
+  <rect fill="#8B4513" x="215" y="120" width="15" height="30"/>
+  <circle fill="#FFD700" cx="250" cy="40" r="20"/>
+  <text x="150" y="20" text-anchor="middle" fill="black" font-family="Arial" font-size="16" font-weight="bold">Nybyggeri</text>
+</svg>

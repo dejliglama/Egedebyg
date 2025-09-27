@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250">
+  <rect fill="#708090" width="400" height="250"/>
+  <rect fill="#DEB887" x="50" y="50" width="300" height="150"/>
+  <rect fill="#8B4513" x="60" y="60" width="280" height="20"/>
+  <rect fill="#8B4513" x="60" y="90" width="280" height="20"/>
+  <rect fill="#8B4513" x="60" y="120" width="280" height="20"/>
+  <rect fill="#8B4513" x="60" y="150" width="280" height="20"/>
+  <rect fill="#8B4513" x="60" y="180" width="280" height="20"/>
+  <rect fill="#654321" x="70" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="90" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="110" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="130" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="150" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="170" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="190" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="210" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="230" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="250" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="270" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="290" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="310" y="70" width="10" height="120"/>
+  <rect fill="#654321" x="330" y="70" width="10" height="120"/>
+  <text x="200" y="30" text-anchor="middle" fill="white" font-family="Arial" font-size="18" font-weight="bold">Køkken Renovering</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect fill="#2F4F4F" width="300" height="200"/>
+  <rect fill="#708090" x="30" y="30" width="240" height="140"/>
+  <rect fill="#696969" x="40" y="40" width="220" height="120"/>
+  <rect fill="#FF6347" x="50" y="50" width="50" height="50"/>
+  <rect fill="#32CD32" x="110" y="50" width="50" height="50"/>
+  <rect fill="#1E90FF" x="170" y="50" width="50" height="50"/>
+  <rect fill="#FFD700" x="80" y="110" width="50" height="50"/>
+  <rect fill="#FF69B4" x="140" y="110" width="50" height="50"/>
+  <text x="150" y="20" text-anchor="middle" fill="white" font-family="Arial" font-size="16" font-weight="bold">Renovering</text>
+</svg>

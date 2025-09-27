@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250">
+  <rect fill="#87CEEB" width="400" height="250"/>
+  <rect fill="#228B22" x="0" y="220" width="400" height="30"/>
+  <polygon fill="#8B0000" points="50,220 200,100 350,220"/>
+  <rect fill="#DEB887" x="150" y="220" width="100" height="30"/>
+  <rect fill="#654321" x="180" y="190" width="15" height="30"/>
+  <rect fill="#654321" x="205" y="190" width="15" height="30"/>
+  <polygon fill="#8B0000" points="80,160 110,140 140,160"/>
+  <polygon fill="#8B0000" points="110,150 140,130 170,150"/>
+  <polygon fill="#8B0000" points="140,140 170,120 200,140"/>
+  <polygon fill="#8B0000" points="170,130 200,110 230,130"/>
+  <polygon fill="#8B0000" points="200,120 230,100 260,120"/>
+  <polygon fill="#8B0000" points="230,110 260,90 290,110"/>
+  <polygon fill="#8B0000" points="260,100 290,80 320,100"/>
+  <text x="200" y="30" text-anchor="middle" fill="black" font-family="Arial" font-size="18" font-weight="bold">Nyt Tag Installation</text>
+</svg>
