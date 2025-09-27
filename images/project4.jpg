@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250">
+  <rect fill="#F0E68C" width="400" height="250"/>
+  <rect fill="#8B4513" x="80" y="80" width="240" height="120"/>
+  <rect fill="#D2691E" x="90" y="90" width="220" height="100"/>
+  <rect fill="#654321" x="100" y="100" width="20" height="80"/>
+  <rect fill="#654321" x="130" y="100" width="20" height="80"/>
+  <rect fill="#654321" x="160" y="100" width="20" height="80"/>
+  <rect fill="#654321" x="190" y="100" width="20" height="80"/>
+  <rect fill="#654321" x="220" y="100" width="20" height="80"/>
+  <rect fill="#654321" x="250" y="100" width="20" height="80"/>
+  <rect fill="#654321" x="280" y="100" width="20" height="80"/>
+  <rect fill="#32CD32" x="0" y="200" width="400" height="50"/>
+  <circle fill="#FFD700" cx="350" cy="50" r="25"/>
+  <text x="200" y="30" text-anchor="middle" fill="black" font-family="Arial" font-size="18" font-weight="bold">Udendørs Terrasse</text>
+</svg>
